@@ -28,6 +28,7 @@ print ("Your Shift is : " + str(shift))
 print ("Updated Encryted Cipher is : " + encrypt(message,shift))
 
 print("\nWe are doing decryption with a shift of 7 \nEach letter will move backward by 7 letters...\n")
+print("hello")
 
 message = "KLMLUKAOLMVYA"
 shift = 7
